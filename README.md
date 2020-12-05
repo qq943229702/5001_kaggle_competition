@@ -6,4 +6,6 @@ The required packages: xgboost, sklearn. It also requires the common-used packag
 
 Running the main.py file (need to check the file path first) and the output will be in the Submission.csv file.
 
+The final result is in test.csv, which is identical to the submission file.
+
 The team name is shan666. And the best submission score is 10.23703, ranking 28/140 temporarily.
